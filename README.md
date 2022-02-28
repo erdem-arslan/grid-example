@@ -1,5 +1,3 @@
-# Static Templates 
-
-## Only html and css template
+# Grid System
 
 Demo: https://erdemarslan.net/examples/grid/
